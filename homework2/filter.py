@@ -111,13 +111,16 @@ def AdaptiveMedianFilter(image, SMax=7):
                     filterSize += 2
     return newImage
 
+
 def skimageGaussian(image, sigma=1):
     newImage = skimage.filters.gaussian(image, sigma=sigma)
     return newImage
 
+
 def skimageMedian(image):
     newImage = skimage.filters.median(image)
     return newImage
+
 
 def main():
     basePath = 'img'
