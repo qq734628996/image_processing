@@ -1,0 +1,3 @@
+https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sc_digits.html
+https://en.wikipedia.org/wiki/Shape_context
+https://blog.csdn.net/aivin24/article/details/8846293?reload
